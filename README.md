@@ -1,0 +1,2 @@
+# SmartKanji
+sk-desktop-jap
